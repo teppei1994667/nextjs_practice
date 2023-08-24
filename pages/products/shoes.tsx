@@ -1,7 +1,7 @@
-const Shose = () => {
+const Shoes = () => {
 	return (
 		<h1>これはShoseのページです</h1>
 	)
 }
 
-export default Shose
+export default Shoes
